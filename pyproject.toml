@@ -1,0 +1,9 @@
+[project]
+name = "dungeoncrawler-3"
+version = "0.5.8"
+description = "A graphical dungeon crawler with protection shields, loot flinging, health bars, and enhanced gameplay"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pygame>=2.5.0",
+]
