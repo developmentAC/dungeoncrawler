@@ -1,4 +1,60 @@
-# Dungeon Crawler Game v0.5.7
+# Dungeon Crawler Game
+
+Date: 27 April 2025
+
+Oliver Bonham-Carter
+
+Email: obonhamcarter at allegheny.edu
+
+![](graphics/play_1.png)
+
+## Table of Contents
+
+- [Dungeon Crawler Game](#dungeon-crawler-game)
+  - [Table of Contents](#table-of-contents)
+  - [Overview of the Game](#overview-of-the-game)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Controls](#controls)
+  - [Game Objective](#game-objective)
+  - [Power-Up System](#power-up-system)
+    - [SpeedPill (Bright Orange Sphere with Lightning Bolt)](#speedpill-bright-orange-sphere-with-lightning-bolt)
+    - [Shield (Shield Shape - Yellow)](#shield-shield-shape---yellow)
+    - [Double Points (2X Text - Purple)](#double-points-2x-text---purple)
+    - [Vision Boost (Eye Symbol - Green)](#vision-boost-eye-symbol---green)
+  - [Difficulty Levels](#difficulty-levels)
+    - [Easy](#easy)
+    - [Medium](#medium)
+    - [Hard](#hard)
+  - [Collectible Items](#collectible-items)
+    - [Coins](#coins)
+    - [Treasures](#treasures)
+    - [Swords (Weapons)](#swords-weapons)
+    - [Bow (Weapon Enabler)](#bow-weapon-enabler)
+    - [Arrows (Ranged Ammunition)](#arrows-ranged-ammunition)
+    - [Hearts](#hearts)
+    - [Power-Ups](#power-ups)
+    - [Gems (NEW in v0.5.0)](#gems-new-in-v050)
+    - [Freeze Scrolls (NEW in v0.5.0)](#freeze-scrolls-new-in-v050)
+    - [Rare Artifacts (NEW in v0.5.0)](#rare-artifacts-new-in-v050)
+    - [Wizard Staff (NEW in v0.5.0, ENHANCED in v0.5.3)](#wizard-staff-new-in-v050-enhanced-in-v053)
+  - [Game Elements](#game-elements)
+    - [Visual Details](#visual-details)
+    - [Colors and Effects](#colors-and-effects)
+    - [Scoring](#scoring)
+  - [Technical Details](#technical-details)
+    - [Project Structure](#project-structure)
+    - [Code Features](#code-features)
+    - [Binary Matrix Map Generation](#binary-matrix-map-generation)
+    - [Entity System](#entity-system)
+  - [Development](#development)
+  - [Future Enhancements](#future-enhancements)
+  - [Requirements](#requirements)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [A Work In Progress](#a-work-in-progress)
+
+## Overview of the Game
 
 A feature-rich graphical dungeon crawler game built with Python and Pygame. Navigate procedurally generated dungeons, collect gems and rare artifacts, fight new enemies like skeletons and wizards, freeze enemies with scrolls, and progress with accumulating scores and upgradeable capacities!
 
@@ -406,8 +462,18 @@ Potential features for future versions:
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Credits
+## Contributing
 
-Developed using Python, Pygame, and UV for dependency management.
+Contributions are welcome! If you have ideas for improvements or want to add more features, feel free to open an issue or submit a pull request.
+
+## A Work In Progress
+
+This project is a work-in-progress. Updates will come periodically.
+
+If you would like to contribute to this project, please do! For instance, if you see some low-hanging fruit or tasks that could add value to the project, I would love to have your insight.
+
+Otherwise, please create an issue for bugs or errors. Since I am a teaching faculty member at Allegheny College, I may not have all the time necessary to quickly fix bugs. I welcome the Open Source Community to further the development of this project. Much thanks in advance.
+
+If you appreciate this project, please consider clicking the project's Star button. :-)
